@@ -56,8 +56,7 @@ This project is a **Bash-based automation tool** designed to:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/server-health-monitor.git
-cd server-health-monitor
+git clone https://github.com/DevNetMohamed/Distributed-Server-Health-Monitor-Bash-SSH-
 ```
 
 ---
