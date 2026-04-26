@@ -168,7 +168,7 @@ SLACK_WEBHOOK="https://hooks.slack.com/services/XXXX"
 ## 👨‍💻 Author
 
 **Mohamed Adel Abdel Aal**
-DevOps Engineer | Full-Stack Developer
+Software Engineer
 
 ---
 
